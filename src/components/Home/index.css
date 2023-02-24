@@ -1,0 +1,11 @@
+.home-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+.user-info {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
